@@ -1,4 +1,9 @@
 cucumber-jvm-template
 =====================
 
-This is a template project that you can use to start with cucumber-jvm and selenium java tests. Read about it on [seleniumframework.com] (http://www.seleniumframework.com/cucumber-jvm-2/what-is-cucumber-jvm/)
+Java Image comparison framework, that compares screenshots of elements to a master image saved within the repository.
+
+- Master image folder needs restructuring
+- Filepaths to be changed from hard coded
+- Output to HTML report
+- Tolerence to be added to ENV file.
