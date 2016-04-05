@@ -1,4 +1,4 @@
-cucumber-jvm-template
+cucumber-JVM-Image-Comparison-Framework
 =====================
 
 Java Image comparison framework, that compares screenshots of elements to a master image saved within the repository.
