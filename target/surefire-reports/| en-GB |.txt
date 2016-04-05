@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: | en-GB |
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.417 sec <<< FAILURE! - in | en-GB |
+Then I capture element "shop_logo"(| en-GB |)  Time elapsed: 0.003 sec  <<< ERROR!
+java.lang.Exception: Images are not the same, after Comparison match level = 0.0% -- please look at the page: ******** For details.
+	at Helpers.ImageComparisonHelper.compareElementOnPage(ImageComparisonHelper.java:28)
+	at StepDefinitions.SearchStepDefinition.iCaptureElement(SearchStepDefinition.java:17)
+	at ✽.Then I capture element "shop_logo"(features/Register.feature:9)
+

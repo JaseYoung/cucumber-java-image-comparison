@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: | ko-KR |
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 6.066 sec <<< FAILURE! - in | ko-KR |
+| en-GB |  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: Images are not the same, after Comparison match level = 0.0% -- please look at the page: ******** For details.
+	at Helpers.ImageComparisonHelper.compareElementOnPage(ImageComparisonHelper.java:28)
+	at StepDefinitions.SearchStepDefinition.iCaptureElement(SearchStepDefinition.java:17)
+	at ✽.Then I capture element "shop_logo"(features/Register.feature:9)
+
+Then I capture element "shop_logo"(| ko-KR |)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: Images are not the same, after Comparison match level = 0.0% -- please look at the page: ******** For details.
+	at Helpers.ImageComparisonHelper.compareElementOnPage(ImageComparisonHelper.java:28)
+	at StepDefinitions.SearchStepDefinition.iCaptureElement(SearchStepDefinition.java:17)
+	at ✽.Then I capture element "shop_logo"(features/Register.feature:9)
+
+| ko-KR |  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.Exception: Images are not the same, after Comparison match level = 0.0% -- please look at the page: ******** For details.
+	at Helpers.ImageComparisonHelper.compareElementOnPage(ImageComparisonHelper.java:28)
+	at StepDefinitions.SearchStepDefinition.iCaptureElement(SearchStepDefinition.java:17)
+	at ✽.Then I capture element "shop_logo"(features/Register.feature:9)
+

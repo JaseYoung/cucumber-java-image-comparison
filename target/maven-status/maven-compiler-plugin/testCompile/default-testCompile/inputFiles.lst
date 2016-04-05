@@ -1,0 +1,12 @@
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/Helpers/Log.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/Helpers/DataHelper.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/PageObjects/BaseClass.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/PageObjects/HomePage.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/StepDefinitions/RunCukesTest.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/Helpers/SeleniumHelper.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/PageFactory/Pages.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/StepDefinitions/HomepageStepDefinition.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/StepDefinitions/Hooks.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/Helpers/ImageComparisonHelper.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/Helpers/SeleniumDriver.java
+/Users/gbjajoma/Lego/cucumber-java-template/src/test/java/StepDefinitions/SearchStepDefinition.java

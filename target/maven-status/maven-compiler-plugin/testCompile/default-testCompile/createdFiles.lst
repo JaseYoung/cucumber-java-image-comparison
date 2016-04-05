@@ -1,0 +1,8 @@
+Helpers/DataHelper.class
+Helpers/SeleniumHelper.class
+StepDefinitions/SearchStepDefinition.class
+PageObjects/HomePage.class
+Helpers/Log.class
+StepDefinitions/Hooks.class
+Helpers/ImageComparisonHelper.class
+PageFactory/Pages.class
