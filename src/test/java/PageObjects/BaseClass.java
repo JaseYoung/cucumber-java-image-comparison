@@ -12,7 +12,7 @@ public abstract class BaseClass {
     public String url = "";
 
     public void NavigateToLego(String locale) {
-        SeleniumHelper.GoToUrl("http://shop.lego.com/" + locale + "/");
+        SeleniumHelper.GoToUrl("http://lego.com/" + locale + "/");
     }
 
     public void NavigateToPage(String linkText) {
