@@ -11,4 +11,4 @@ Feature: Load up shop.lego.com and verify logo
     Examples:
       | locale |
       | en-GB  |
-      | ko-KR  |
+      | ko-KR  |maven
